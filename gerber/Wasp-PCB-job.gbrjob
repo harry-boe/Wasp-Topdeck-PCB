@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2-0)"
     },
-    "CreationDate": "2022-03-08T14:15:39+01:00"
+    "CreationDate": "2022-07-03T14:42:40+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Wasp-PCB",
       "GUID": "57617370-2d50-4434-922e-6b696361645f",
-      "Revision": "rev?"
+      "Revision": "0.91"
     },
     "Size": {
-      "X": 225.25,
+      "X": 221.3,
       "Y": 36.35
     },
     "LayerNumber": 2,
